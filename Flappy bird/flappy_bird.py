@@ -152,11 +152,11 @@ bird_group.add(flappy)
 button = Button(screen_width // 2 - 50, screen_height // 2 - 100, button_img)
 
 # Example position for logos
-logo_x = 1
-logo_y = 1
+logo_x = 10
+logo_y = 80
 
 logo2_x = screen_width - 150  # Adjust position as needed
-logo2_y = 1
+logo2_y = 125
 
 run = True
 while run:
